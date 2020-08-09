@@ -1,7 +1,7 @@
 const config = {
-  apiKey: "AIzaSyCbaayy1kDUNcRmSsuhUb6wz6pAY9bSJbY",
-  authDomain: "react-fir-login-tutorial.firebaseapp.com",
-  databaseURL: "https://react-fir-login-tutorial.firebaseio.com"
+  apiKey: "AIzaSyC7PAQHnX2gwS5PKv0-dENb2rGe92ZYs84",
+  authDomain: "react-firebase-db-c45b8.firebaseapp.com",
+  databaseURL: "https://react-firebase-db-c45b8.firebaseio.com"
 };
 
 export default config;
